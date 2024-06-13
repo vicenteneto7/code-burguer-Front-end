@@ -41,7 +41,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/HenriqueFSouza/code-burguer-interface.git
+$ git clone https://github.com/vicenteneto7/code-burguer-Front-end.git
 
 # access
 $ cd code-burguer-interface
