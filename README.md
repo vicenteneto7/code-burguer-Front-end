@@ -1,7 +1,5 @@
 <h1>Code Burguer Project</h1>
 
-👉🏾 Check out the project on production: https://code-burguer-interface-henna.vercel.app/
-
 ### Users View
 ![image](https://github.com/vicenteneto7/code-burguer-Front-end/blob/main/src/assets/readme/gif.gif)
 
